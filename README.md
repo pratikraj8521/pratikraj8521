@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pratikraj8521
+- 👋 Hi, I’m @pratik raj
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning java/cyyber security
+- 🌱 I’m currently learning java/cyber security
   
-- 📫 How to reach me pratikpraj044@gmail.com
+- 📫 contact me  pratikpraj044@gmail.com
   
 
 <!---
